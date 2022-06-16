@@ -1,5 +1,5 @@
 component {
-	this.name="websocket_chat_apps_are_dumb_2b";
+	this.name="websocketchatapp";
 
 	this.wschannels = [
 		{name="chat",cfclistener:"chatws"}
