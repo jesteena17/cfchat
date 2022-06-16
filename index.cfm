@@ -15,7 +15,6 @@
 			crossorigin="anonymous">
 		</script>
 		<script type="text/javascript">
-
 			messageHandler =  function(aEvent,aToken) {
 				if (aEvent.data) {
 					$( "#myChatArea" ).append( aEvent.data  + "<br />");
